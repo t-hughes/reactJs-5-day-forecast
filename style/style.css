@@ -1,0 +1,22 @@
+body {
+  background: url('https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/JUIVJ9LRQ3.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+    background-color: #EEE;
+}
+
+td:first-of-type {
+    height: 200px;
+    width: 250px;
+}
